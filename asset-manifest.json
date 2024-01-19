@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Resolute_ai_task_manager/static/css/main.073c9b0a.css",
+    "main.js": "/Resolute_ai_task_manager/static/js/main.61584a20.js",
+    "static/js/787.f237a53c.chunk.js": "/Resolute_ai_task_manager/static/js/787.f237a53c.chunk.js",
+    "static/media/logo.svg": "/Resolute_ai_task_manager/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Resolute_ai_task_manager/index.html",
+    "main.073c9b0a.css.map": "/Resolute_ai_task_manager/static/css/main.073c9b0a.css.map",
+    "main.61584a20.js.map": "/Resolute_ai_task_manager/static/js/main.61584a20.js.map",
+    "787.f237a53c.chunk.js.map": "/Resolute_ai_task_manager/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.61584a20.js"
+  ]
+}
